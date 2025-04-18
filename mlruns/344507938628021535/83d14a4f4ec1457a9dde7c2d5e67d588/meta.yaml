@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/WGURepos/d602-deployment-task-2/mlruns/344507938628021535/83d14a4f4ec1457a9dde7c2d5e67d588/artifacts
+end_time: 1741218768434
+entry_point_name: ''
+experiment_id: '344507938628021535'
+lifecycle_stage: active
+run_id: 83d14a4f4ec1457a9dde7c2d5e67d588
+run_name: Run started at 18:52
+run_uuid: 83d14a4f4ec1457a9dde7c2d5e67d588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741218767277
+status: 3
+tags: []
+user_id: Admin

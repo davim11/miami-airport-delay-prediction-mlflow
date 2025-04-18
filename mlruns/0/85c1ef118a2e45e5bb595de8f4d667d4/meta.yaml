@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/WGURepos/d602-deployment-task-2/mlruns/0/85c1ef118a2e45e5bb595de8f4d667d4/artifacts
+end_time: 1741233491225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85c1ef118a2e45e5bb595de8f4d667d4
+run_name: popular-crab-757
+run_uuid: 85c1ef118a2e45e5bb595de8f4d667d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233486322
+status: 4
+tags: []
+user_id: Admin

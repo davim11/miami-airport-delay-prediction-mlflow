@@ -1,0 +1,12 @@
+2025-03-05 18:35:59,030 Loading raw data from airportdataraw.csv
+2025-03-05 18:35:59,105 Removed delays > 60 minutes, new shape: (8915, 12)
+2025-03-05 18:35:59,107 Replaced negative delays with 0
+2025-03-05 18:35:59,127 Final cleaned data saved as cleaned_data.csv with shape: (8915, 12)
+2025-03-05 22:44:32,281 Loading raw data from airportdataraw.csv
+2025-03-05 22:44:32,377 Removed delays > 60 minutes, new shape: (8915, 12)
+2025-03-05 22:44:32,380 Replaced negative delays with 0
+2025-03-05 22:44:32,401 Final cleaned data saved as cleaned_data.csv with shape: (8915, 12)
+2025-03-05 22:58:45,721 Loading raw data from airportdataraw.csv
+2025-03-05 22:58:45,786 Removed delays > 60 minutes, new shape: (8915, 12)
+2025-03-05 22:58:45,789 Replaced negative delays with 0
+2025-03-05 22:58:45,808 Final cleaned data saved as cleaned_data.csv with shape: (8915, 12)

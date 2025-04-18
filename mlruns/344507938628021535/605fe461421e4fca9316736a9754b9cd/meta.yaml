@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/WGURepos/d602-deployment-task-2/mlruns/344507938628021535/605fe461421e4fca9316736a9754b9cd/artifacts
+end_time: 1741218767883
+entry_point_name: ''
+experiment_id: '344507938628021535'
+lifecycle_stage: active
+run_id: 605fe461421e4fca9316736a9754b9cd
+run_name: Training Run Number 10
+run_uuid: 605fe461421e4fca9316736a9754b9cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741218767829
+status: 3
+tags: []
+user_id: Admin

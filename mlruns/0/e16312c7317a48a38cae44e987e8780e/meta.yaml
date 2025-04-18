@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/WGURepos/d602-deployment-task-2/mlruns/0/e16312c7317a48a38cae44e987e8780e/artifacts
+end_time: 1741233346650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e16312c7317a48a38cae44e987e8780e
+run_name: whimsical-shoat-39
+run_uuid: e16312c7317a48a38cae44e987e8780e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233343072
+status: 4
+tags: []
+user_id: Admin

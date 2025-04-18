@@ -1,0 +1,37 @@
+22:52:31 INFO Flight Departure Delays Polynomial Regression Model Log
+22:52:31 INFO Month and year of data: 1 2022
+22:52:31 INFO Airport one-hot encoding successful
+22:52:31 DEBUG Popen(['git', 'version'], cwd=D:\WGURepos\d602-deployment-task-2, stdin=None, shell=False, universal_newlines=False)
+22:52:31 DEBUG Popen(['git', 'version'], cwd=D:\WGURepos\d602-deployment-task-2, stdin=None, shell=False, universal_newlines=False)
+22:52:31 DEBUG Popen(['git', 'check-ignore', 'D:\\WGURepos\\d602-deployment-task-2'], cwd=D:\WGURepos\d602-deployment-task-2, stdin=None, shell=False, universal_newlines=False)
+22:52:31 DEBUG Popen(['git', 'cat-file', '--batch-check'], cwd=D:\WGURepos\d602-deployment-task-2, stdin=<valid stream>, shell=False, universal_newlines=False)
+22:52:31 INFO n=1 alpha=0.0 , MSE = 7.8411e+26
+22:52:31 INFO n=1 alpha=0.2 , MSE = 110.55
+22:52:31 INFO n=1 alpha=0.4 , MSE = 109.44
+22:52:31 INFO n=1 alpha=0.6 , MSE = 108.55
+22:52:31 INFO n=1 alpha=0.8 , MSE = 107.8
+22:52:32 INFO n=1 alpha=1.0 , MSE = 107.16
+22:52:32 INFO n=1 alpha=1.2 , MSE = 106.6
+22:52:32 INFO n=1 alpha=1.4 , MSE = 106.11
+22:52:32 INFO n=1 alpha=1.6 , MSE = 105.66
+22:52:32 INFO n=1 alpha=1.8 , MSE = 105.26
+22:52:32 INFO n=1 alpha=2.0 , MSE = 104.9
+22:52:32 INFO n=1 alpha=2.2 , MSE = 104.57
+22:52:32 INFO n=1 alpha=2.4 , MSE = 104.26
+22:52:32 INFO n=1 alpha=2.6 , MSE = 103.98
+22:52:32 INFO n=1 alpha=2.8 , MSE = 103.71
+22:52:32 INFO n=1 alpha=3.0 , MSE = 103.47
+22:52:32 INFO n=1 alpha=3.2 , MSE = 103.24
+22:52:32 INFO n=1 alpha=3.4 , MSE = 103.02
+22:52:32 INFO n=1 alpha=3.6 , MSE = 102.82
+22:52:32 INFO n=1 alpha=3.8 , MSE = 102.62
+22:52:32 INFO Training Data Final MSE = 102.62
+22:52:32 INFO Model training loop completed with 20 iterations
+22:52:32 INFO Export of airport one-hot encoding successful
+22:52:32 INFO Wrangling of test data successful
+22:52:32 INFO Test Data MSE = 77.45
+22:52:32 INFO Predictions using test data successful
+22:52:32 INFO Test Data average delay = 8.80 min
+22:52:32 INFO Final model export successful
+22:52:32 DEBUG Loaded backend qtagg version 5.15.9.
+22:52:33 INFO Model performance plot export successful

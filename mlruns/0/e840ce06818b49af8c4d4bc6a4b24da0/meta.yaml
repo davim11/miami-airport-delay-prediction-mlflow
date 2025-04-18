@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/WGURepos/d602-deployment-task-2/mlruns/0/e840ce06818b49af8c4d4bc6a4b24da0/artifacts
+end_time: 1741233056825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e840ce06818b49af8c4d4bc6a4b24da0
+run_name: persistent-fish-158
+run_uuid: e840ce06818b49af8c4d4bc6a4b24da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233047859
+status: 4
+tags: []
+user_id: Admin

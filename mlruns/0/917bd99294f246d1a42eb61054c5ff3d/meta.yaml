@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/WGURepos/d602-deployment-task-2/mlruns/0/917bd99294f246d1a42eb61054c5ff3d/artifacts
+end_time: 1741233153423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 917bd99294f246d1a42eb61054c5ff3d
+run_name: bemused-pug-133
+run_uuid: 917bd99294f246d1a42eb61054c5ff3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233145625
+status: 3
+tags: []
+user_id: Admin

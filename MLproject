@@ -1,0 +1,12 @@
+name: AirlineDelayPrediction
+
+conda_env: D:\WGURepos\d602-deployment-task-2\pipeline_env.yaml
+
+entry_points:
+  process_data:
+    command: "python process_data.py"
+  train_model:
+    parameters:
+      num_alphas: {type: int, default: 20}
+    command: "python poly_regressor_Python_1.0.0.py {num_alphas}"
+ 

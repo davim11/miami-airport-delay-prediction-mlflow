@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/WGURepos/d602-deployment-task-2/mlruns/0/48bc1e049c324cd89e96bf55103c0b51/artifacts
+end_time: 1741233525870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48bc1e049c324cd89e96bf55103c0b51
+run_name: salty-shrew-990
+run_uuid: 48bc1e049c324cd89e96bf55103c0b51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233521815
+status: 3
+tags: []
+user_id: Admin

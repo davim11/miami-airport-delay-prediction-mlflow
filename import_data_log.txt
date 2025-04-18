@@ -1,0 +1,2 @@
+2025-03-05 17:46:22,797 Loading raw data from airportdataraw.csv
+2025-03-05 17:46:22,909 Formatted MIA data saved with shape: (9673, 12)

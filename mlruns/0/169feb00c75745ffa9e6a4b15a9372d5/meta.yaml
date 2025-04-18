@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/WGURepos/d602-deployment-task-2/mlruns/0/169feb00c75745ffa9e6a4b15a9372d5/artifacts
+end_time: 1741233539067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 169feb00c75745ffa9e6a4b15a9372d5
+run_name: Final Model - Test Data
+run_uuid: 169feb00c75745ffa9e6a4b15a9372d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233539018
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/WGURepos/d602-deployment-task-2/mlruns/0/1e5fa29dfad0446f88619a6a8d09bcae/artifacts
+end_time: 1741232761242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e5fa29dfad0446f88619a6a8d09bcae
+run_name: powerful-frog-642
+run_uuid: 1e5fa29dfad0446f88619a6a8d09bcae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741232752074
+status: 4
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/WGURepos/d602-deployment-task-2/mlruns/0/f6a6a12b7d304fc098b35584e7b96cb7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6a6a12b7d304fc098b35584e7b96cb7
+run_name: skittish-quail-540
+run_uuid: f6a6a12b7d304fc098b35584e7b96cb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233491085
+status: 1
+tags: []
+user_id: Admin
